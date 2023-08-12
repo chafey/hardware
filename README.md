@@ -1,6 +1,6 @@
 # Hardware
 
-List of hardware I own to help me keep track
+List of hardware I own.  Documented to help me keep track
 
 # Computers
 
@@ -62,20 +62,11 @@ List of hardware I own to help me keep track
 * NixOS
 
 ## Mac Studio M1-Ultra
-* Purpose: compulsive purchase
+* Purpose: compulsive purchase, should probably sell it
 * 20 Core CPU (16 Performance, 4 Efficiency)
 * 48 Core GPU
 * 64 GB RAM
 * 1 TB SSD
-
-## ThreadRipper
-* Purpose: was proxmox vm server, current powered down and should sell it 
-* [AMD ThreadRipper 3960X](https://www.amd.com/en/product/8946)
-* 256 GB DDR 4 RAM
-* 4 TB nVME
-* AMD 6900 XT
-* [eVGA SuperNova 1200 P2](https://www.evga.com/products/product.aspx?pn=220-P2-1200-X1)
-* ProxMox
 
 # Displays
 
@@ -88,7 +79,7 @@ List of hardware I own to help me keep track
 
 # Other
 
-## Synology NAS
+* [CalDigit TS3 Plus](https://www.caldigit.com/ts3-plus/) x2
 
 ## Networking
 * [Unif Flex XG](https://store.ui.com/us/en/products/unifi-flex-xg) x2
@@ -101,7 +92,6 @@ List of hardware I own to help me keep track
 
 ## HP Printer
 ## Brother Printer
-## 
 
 # Retro Gear
 
@@ -111,7 +101,18 @@ List of hardware I own to help me keep track
 
 ## Macintosh Plus
 
-# Not running
+# In Storage
+
+## Synology NAS
+
+## ThreadRipper
+* Purpose: was proxmox vm server, current powered down and should sell it 
+* [AMD ThreadRipper 3960X](https://www.amd.com/en/product/8946)
+* 256 GB DDR 4 RAM
+* 4 TB nVME
+* AMD 6900 XT
+* [eVGA SuperNova 1200 P2](https://www.evga.com/products/product.aspx?pn=220-P2-1200-X1)
+* ProxMox
 
 ## IBM Server
 * Old, slow and power hungry 
