@@ -36,6 +36,7 @@ List of hardware I own.  Documented to help me keep track
 * [Corsair RM1200x Shift](https://www.corsair.com/us/en/p/psu/cp-9020254-na/rm1200x-shift-80-plus-gold-fully-modular-atx-power-supply-cp-9020254-na)
 * [Artic Liquid Freezer II 360](https://www.arctic.de/us/Liquid-Freezer-II-360/ACFRE00068B)
 * Windows 10 Pro
+* Noctua Fans
 
 ## MATX
 * Purpose: Linux / Software Development
@@ -48,6 +49,7 @@ List of hardware I own.  Documented to help me keep track
 * [Corsair HX1500i](https://www.corsair.com/us/en/p/psu/cp-9020215-na/hxi-series-fully-modular-atx-power-supply-cp-9020215-na)
 * [Artic Liquid Freezer II 280](https://www.arctic.de/us/Liquid-Freezer-II-280/ACFRE00066B)
 * NixOS
+* Noctua Fans
 
 ## ITX
 * Purpose: Experiments
@@ -60,6 +62,7 @@ List of hardware I own.  Documented to help me keep track
 * [SilverStone SX1000 Platinum](https://www.silverstonetek.com/en/product/info/power-supplies/SX1000Platinum/)
 * [DeepCool LT520](https://www.deepcool.com/products/Cooling/cpuliquidcoolers/LT520-240mm-Liquid-CPU-Cooler-1700-AM5/2022/16271.shtml)
 * NixOS
+* Noctua Fans
 
 ## Mac Studio M1-Ultra
 * Purpose: compulsive purchase, should probably sell it
@@ -113,6 +116,7 @@ List of hardware I own.  Documented to help me keep track
 * AMD 6900 XT
 * [eVGA SuperNova 1200 P2](https://www.evga.com/products/product.aspx?pn=220-P2-1200-X1)
 * ProxMox
+* Noctua Fans
 
 ## IBM Server
 * Old, slow and power hungry 
@@ -135,4 +139,9 @@ List of hardware I own.  Documented to help me keep track
 * 32 GB DDR4 RAM
 * Windows 10
 * Died all of a sudden, need to RMA
+
+## MacBook Pro 13"
+* ?? Intel CPU
+* 16GB RAM
+* 128GB nVME
 
