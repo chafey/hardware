@@ -27,11 +27,11 @@ List of hardware I own.  Documented to help me keep track
 ## ATX
 * Purpose: Windows Gaming
 * [McPrue ATX Case](https://www.mcprue.com/cases/apollo-l)
-* [AMD 7950X](https://www.amd.com/en/products/cpu/amd-ryzen-9-7950x) 16C/32T
+* [AMD 7950X3D](https://www.amd.com/en/products/apu/amd-ryzen-9-7950x3d) 16C/32T
 * [G.Skill 32 GB (2x16) DDR5-6000 CL30 RAM](https://www.gskill.com/products/1/165/396/Flare-X5-DDR5-AMD-EXPO)
 * [Asus ProArt Creator x670e](https://www.asus.com/us/motherboards-components/motherboards/proart/proart-x670e-creator-wifi/)
 * [nVidia RTX 4900](https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/rtx-4090/)
-* [Inland Performance Plus 2TB nVME](https://www.microcenter.com/product/642168/inland-performance-plus-2tb-3d-tlc-nand-pcie-gen-4-x4-nvme-m2-internal-ssd)
+* [Samsung 990 PRO 1TB nVME](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/990-pro-pcie--4-0-nvme--ssd-1tb-mz-v9p1t0b-am/)
 * [Crucial P3 4TB nVME](https://www.microcenter.com/product/650164/crucial-p3-4tb-3d-nand-flash-pcie-gen-3x4-nvme-m2-internal-ssd)
 * [Corsair RM1200x Shift](https://www.corsair.com/us/en/p/psu/cp-9020254-na/rm1200x-shift-80-plus-gold-fully-modular-atx-power-supply-cp-9020254-na)
 * [Artic Liquid Freezer II 360](https://www.arctic.de/us/Liquid-Freezer-II-360/ACFRE00068B)
@@ -42,7 +42,7 @@ List of hardware I own.  Documented to help me keep track
 * Purpose: Linux / Software Development
 * Mcprue MATX Case
 * [AMD 7950X](https://www.amd.com/en/products/cpu/amd-ryzen-9-7950x) 16C/32T
-* [G.Skill 32 GB (2x16) DDR5-6000 CL30 RAM](https://www.gskill.com/products/1/165/396/Flare-X5-DDR5-AMD-EXPO)
+* [G.Skill 64 GB (2x32) DDR5-6000 CL30 RAM](https://www.gskill.com/product/165/396/1691400033/F5-6000J3040G32GX2-FX5)
 * [Asus Crosshair x670E Gene](https://rog.asus.com/motherboards/rog-crosshair/rog-crosshair-x670e-gene-model/)
 * [AMD 6950 XT](https://www.amd.com/en/products/graphics/amd-radeon-rx-6950-xt)
 * [Inland Performance Plus 2TB nVME](https://www.microcenter.com/product/642168/inland-performance-plus-2tb-3d-tlc-nand-pcie-gen-4-x4-nvme-m2-internal-ssd)
