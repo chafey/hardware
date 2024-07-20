@@ -61,7 +61,7 @@ List of hardware I own.  Documented to help me keep track
 * Case: [ThermalTake The Tower 900](https://www.thermaltake.com/the-tower-900.html) Snow White
 * CPU: [AMD 7950X3D](https://www.amd.com/en/products/apu/amd-ryzen-9-7950x3d) 16C/32T
 * RAM: [G.Skill 64 GB (2x32) DDR5-6000 CL30](https://www.gskill.com/product/165/396/1691400033/F5-6000J3040G32GX2-FX5)
-* Motherboard: [Asus ROG Crosshair Extreme x670](https://rog.asus.com/motherboards/rog-crosshair/rog-crosshair-x670e-extreme-model/)
+* Motherboard: [Asus ROG Crosshair Extreme x670e](https://rog.asus.com/motherboards/rog-crosshair/rog-crosshair-x670e-extreme-model/)
 * GPU: [nVidia RTX 4900](https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/rtx-4090/)
 * Storage: [Crucial T700 4TB PCIe Gen5 nVME](https://www.crucial.com/ssd/t700/ct4000t700ssd3)
 * Storage: [Samsung 990 PRO 1TB nVME](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/990-pro-pcie--4-0-nvme--ssd-1tb-mz-v9p1t0b-am/)
@@ -69,7 +69,7 @@ List of hardware I own.  Documented to help me keep track
 * PS: [Corsair HX1500i](https://www.corsair.com/us/en/p/psu/cp-9020215-na/hxi-series-fully-modular-atx-power-supply-cp-9020215-na)
 * Cooling: 
   * 540mm EK Radiator 2x
-  * EK D5 Pumpts 2x)
+  * EK D5 Pumps 2x
   * EK AM5 Waterblock
   * EK 4090 Water Block 
   * EK ZMT Tubing
